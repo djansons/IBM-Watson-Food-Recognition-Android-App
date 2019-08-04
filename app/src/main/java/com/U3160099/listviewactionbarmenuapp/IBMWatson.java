@@ -63,7 +63,7 @@ public class IBMWatson extends AppCompatActivity {
     private CameraHelper cameraHelper;
     private GalleryHelper galleryHelper;
     private File photoFile;
-    private final String api_key = "VvgDRAXEizqsALoL9FcRFayR-kHHlP1Vo5QsTjMic2--";
+    private final String api_key = "YOUR API KEY HERE";
 
     public static Double getFoodScore() {
         return foodScore;
